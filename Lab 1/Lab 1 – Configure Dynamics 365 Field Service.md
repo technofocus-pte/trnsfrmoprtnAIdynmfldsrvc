@@ -360,7 +360,30 @@ managing **Field Service operations** within **Dynamics 365**.
 
     ![](./media/image62.png)
 
-##  Exercise 6 - Install Field Service Outlook Add-in with Copilot 
+## Exercise 6 – Enable Work order summary report
+
+1.  Navigate back to **Service** **area** in field service. Click on the
+    **service** form the bottom left corner and select **Settings**
+    area.
+
+![](./media/image63a.png)
+
+2.  A Field Service administrator must **enable** the report in 
+    **Analytics and Insight** \> **Settings** \> **Field Service
+    historical analytics** \> **Manage**. After enabling click on the
+    **Save and Close.**
+
+![](./media/image64a.png)
+
+![](./media/image65a.png)
+
+3.  Navigate back to **service** **area** of field service, and click on
+    the **Reports** under Analytics and Insights. It takes up to **24
+    hours to setup**. Proceed with next exercise while its creating.
+
+![](./media/image66a.png)
+
+##  Exercise 7 - Install Field Service Outlook Add-in with Copilot 
 
 ### Task 1 – Login Into Microsoft Admin Portal
 
