@@ -173,9 +173,9 @@ managing **Field Service operations** within **Dynamics 365**.
 
      ![](./media/image30.png)
 
-4.  Select Price List as **Default USD**
+4.  Click on the Servicing, click on Price List section, press enter and select **Default USD**
 
-    ![](./media/image31.png)
+    ![](./media/image31a.png)
 
 5.  Select **Geo Code** at the top of the form.
 
@@ -230,7 +230,7 @@ managing **Field Service operations** within **Dynamics 365**.
         +++**Contoso Retail**+++ in the field and select the result.
 
     4.  **Work order type** - Click on the Work order type field. Enter
-        ++++**AC Repair and Maintenance**+++ in the field and select the
+        +++**AC Repair and Maintenance**+++ in the field and select the
         result.
 
     5.  **Incident type** - Click on the Incident type field. Enter
@@ -247,7 +247,7 @@ managing **Field Service operations** within **Dynamics 365**.
 
 ### Task 1 – Create Contact in Microsoft Field Service
 
-1.  In the Service area, click on the Contacts and then click on **+ New.**
+1.  In the Service area, click on the **Contacts** and then click on **+ New.**
 
     ![](./media/image41.png)
 
@@ -296,12 +296,12 @@ managing **Field Service operations** within **Dynamics 365**.
 
      ![](./media/image49.png)
 
-2.  Click on the Working hour on the calendar and then select **Edit All events in the series.**
+2.  Click on the Working hour on the calendar and then select **Edit --> All events in the series.**
 
     ![](./media/image50.png)
 
 3.  On the weekdays, deselect the **Sunday and Saturday**. Set start
-    time as **10 AM** and End time as ***6 PM** and then click on the Save
+    time as **10 AM** and End time as **06 PM** and then click on the **Save**
     button.
 
 4.  Click on the **OK** button on the popup window.
