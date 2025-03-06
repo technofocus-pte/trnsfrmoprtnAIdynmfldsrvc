@@ -196,10 +196,10 @@ Dynamics 365.
 
 4.  Enter or select the given below information in the given field.
 
-    | Subject      | Repair and Maintenance Booking               |
+    | Subject      | +++Repair and Maintenance Booking+++               |
     |-------------|---------------------------------------------|
-    | Description | Air conditioner repair and maintenance service. |
-    | Regarding   | Contoso Retail                              |
+    | Description | +++Air conditioner repair and maintenance service.+++ |
+    | Regarding   | +++Contoso Retail+++                              |
     | Priority    | Normal                                     |
     | Due Date    | Any future date                            |
     | Due Time    | Select time                                |
@@ -234,12 +234,12 @@ Dynamics 365.
 
     ![](./media/image39.png)
 
-3.  Click on the down arrow on **Mark Brown** section and Right-click on
+3.  Click on the down arrow on resource section and Right-click on
     the Work order under **Mark Brown** and select **Rebook**.
 
     ![](./media/image40.png)
 
-4.  Click on the **Mark Brown** resource the create Booking window will
+4.  Click on the resource the create Booking window will
     open. Reselect Start date, Start Time, Estimate Arrival Date,
     Estimate Arrival Time, End Date, End time, booking Status. Click on
     the **Rebook and Exit**.
