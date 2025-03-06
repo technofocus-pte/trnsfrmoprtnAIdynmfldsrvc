@@ -58,7 +58,7 @@ inspections, improving service quality and operational efficiency.
 
     ![](./media/image8.png)
 
-3.  Name the template **Device Issue Inspection** and add a brief
+3.  Name the template +++**Device Issue Inspection**+++ and add a brief
     description as +++**This inspection ensures all critical functionalities of the AC are working as expected**+++
 
     ![](./media/image9.png)
@@ -103,7 +103,7 @@ inspections, improving service quality and operational efficiency.
 
     ![](./media/image14.png)
 
-7.  Click on the **Device Issue Inspection and** Click on the **Publish and generate** from top bar and again click on the ***Publish**.
+7.  Click on the **Device Issue Inspection and** Click on the **Publish and generate** from top bar and again click on the **Publish**.
 
     ![](./media/image15.png)
 
