@@ -83,7 +83,7 @@ managing **Field Service operations** within **Dynamics 365**.
 
     ![](./media/image11.png)
 
-2.  In the name field, enter **Air Conditioner Service** in the field.
+2.  In the name field, enter +++**Air Conditioner Service**+++ in the field.
     Click on the **Save and Close** button from top bar.
 
     ![](./media/image12.png)
