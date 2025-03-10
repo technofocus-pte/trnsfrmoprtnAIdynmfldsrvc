@@ -1,4 +1,4 @@
-# Lab 2 - Creating an Inspection for Work Orders of Contoso Retail
+# Lab 2 - Create an Inspection and add it to a work order
 
 **Estimate Time: 25 mins**
 
