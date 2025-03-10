@@ -1,4 +1,4 @@
-# Lab 7 - Create a work order and draft an email response with Copilot in Field Service Outlook add-in
+# Lab 5 - Create a work order and draft an email response with Copilot in Field Service Outlook add-in
 
 **Estimated time: 30 mins**
 

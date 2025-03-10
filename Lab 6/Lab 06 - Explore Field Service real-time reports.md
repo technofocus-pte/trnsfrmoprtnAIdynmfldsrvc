@@ -1,4 +1,4 @@
-# Lab 8 - Explore Field Service real-time reports
+# Lab 6 - Explore Field Service real-time reports
 
 **Estimated Time: 30 mins**
 
