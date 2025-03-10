@@ -1,4 +1,4 @@
-# Lab 4 - Manage work orders with Field Service in Teams
+# Lab 4 - Collaborate with Microsoft Teams and ​Manage Work Orders 
 
 **Estimated Time – 25 mins**
 
