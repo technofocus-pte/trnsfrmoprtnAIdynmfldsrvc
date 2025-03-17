@@ -41,13 +41,11 @@ streamline work order management efficiently within Teams.
 
     ![](./media/image4b.png)
 
-
-7.  Select Apps from left navigation pane, search for Field Service and click on **Add**.
+7.  Select **Apps** from left navigation pane, search for Field Service and click on **Add**.
 
     ![](./media/image5.png)
 
-8.  Select **Add**,  Confirm your
-    information. After adding click on **cross icon** to close popup.
+8.  Select **Add**,  Confirm your information. After adding click on **cross icon** to close popup.
 
     ![](./media/image6.png)
 
