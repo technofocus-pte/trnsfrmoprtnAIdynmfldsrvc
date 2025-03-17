@@ -11,7 +11,7 @@ template, associate it with a service task type, and link it to a work
 order. This process ensures that work orders include structured
 inspections, improving service quality and operational efficiency.
 
-## Exercise 1 – Sign In Microsoft Fabric Trial
+## Exercise 1 – Sign In Microsoft Dynamic 365
 
 1.  Open the Edge browser and navigate to **Microsoft Dynamics 365** by
     visiting +++https://www.microsoft.com/en-in/dynamics-365/+++
@@ -72,8 +72,7 @@ inspections, improving service quality and operational efficiency.
         2.  Enter the question: +++Is your AC not working due to a
             power supply issue?+++
 
-        3.  Enter options: +++**Yes**+++ and +++**No**+++ (Delete any extra
-            options).
+        3.  i.	Enter options: Edit the first option Item 1 to **Yes**, second option Item 2 to **No** (Delete any extra options).
 
      ![](./media/image10.png)
 
