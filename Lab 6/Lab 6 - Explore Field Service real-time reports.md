@@ -70,14 +70,9 @@ travel time, and work orders to enhance operational efficiency.
 
 ![](./media/image11.png)
 
-6.  If read privilege setting is not configured, click on the **Permission** settings from top bar. Then, select the **Read**
-    **privilege** for the report.
-
-![](./media/image12.png)
+6. Check Read privilege is activated for organization. If not change the privilege as organization and click on Save and Close from top bar.
 
 ![](./media/image13.png)
-
-7.  Click on **Save and Close** from top bar.
 
 ![](./media/image14.png)
 
@@ -208,21 +203,20 @@ travel time, and work orders to enhance operational efficiency.
 
   **Filters and slicers** 
 
-  - **Date range**: A [relative date
-    range](https://learn.microsoft.com/en-us/power-bi/visuals/desktop-slicer-filter-date-range). 
+  - **Date range**: A relative date range
 
 
-  - **Customer**: [Customer
-    accounts](https://learn.microsoft.com/en-us/dynamics365/field-service/accounts) configured
+  - **Customer**: Customer
+    accountsn configured
     in Field Service. 
 
 
-  - **System status**: [Booking status of a work
-    order](https://learn.microsoft.com/en-us/dynamics365/field-service/work-order-status-booking-status). 
+  - **System status**: Booking status of a work
+    order.
 
 
-  - **Work order type**: [Work order
-    types](https://learn.microsoft.com/en-us/dynamics365/field-service/create-work-order-types) in
+  - **Work order type**: Work order
+    types in
     Field Service. 
 
 
@@ -231,12 +225,12 @@ travel time, and work orders to enhance operational efficiency.
 
 
   - **Service
-    territory**: [Territory](https://learn.microsoft.com/en-us/dynamics365/field-service/set-up-territories) defined
+    territory**: Territory defined
     in Field Service. 
 
 
-  - **Technician**: [Active bookable
-    resources](https://learn.microsoft.com/en-us/dynamics365/field-service/set-up-bookable-resources) in
+  - **Technician**: Active bookable
+    resources in
     Field Service. 
 
   ![](./media/image21.png)
@@ -313,7 +307,7 @@ travel time, and work orders to enhance operational efficiency.
 ![](./media/image24.png)
 
 - **Territory analysis**: Number of bookings
-  by [territory](https://learn.microsoft.com/en-us/dynamics365/field-service/set-up-territories) on
+  by territory on
   a map. The territory needs to be a physical geolocation to show on the
   map. 
 
