@@ -11,7 +11,7 @@ template, associate it with a service task type, and link it to a work
 order. This process ensures that work orders include structured
 inspections, improving service quality and operational efficiency.
 
-## Exercise 1 – Sign In Microsoft Dynamic 365
+## Exercise 1 – Sign In Microsoft Dynamic 365 Field Service
 
 1.  Open the Edge browser and navigate to **Microsoft Dynamics 365** by
     visiting +++https://www.microsoft.com/en-in/dynamics-365/+++
