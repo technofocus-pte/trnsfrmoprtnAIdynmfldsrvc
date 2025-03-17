@@ -134,9 +134,9 @@ Dynamics 365.
 
     ![](./media/image22.png)
 
-7.  In the Team name field enter **Internal Team**.
+7.  In the Team name field enter +++**Internal Team**+++.
 
-8.  Click on the **Business Unit** field, press enter and select the
+8.  Click on the **Business Unit** field, press enter key and select the
     default business unit.
 
     ![](./media/image23.png)
