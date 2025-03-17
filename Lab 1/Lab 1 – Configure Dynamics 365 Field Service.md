@@ -1,6 +1,6 @@
 # Lab 1 – Configure Dynamic 365 Field Service
 
-### Estimate Time: 45 mins
+### Estimated Time: 45 mins
 
 ## Introduction
 
@@ -31,9 +31,8 @@ managing **Field Service operations** within **Dynamics 365**.
     ![](./media/image3.png)
 
 4.  In the *Let's get started* screen, enter the **M365 tenant** that
-    were provided to you -as part of your lab environment. Accept the
-    license agreement. (If you are prompted to enter a phone number, you
-    can enter 0123456789.)
+    were provided to you -as part of your lab environment, enter phone nunber and accept the
+    license agreement.
 
 5.  Select **Start your free trial**. (If prompted, select **Launch
     Trial** in the pop-up.)
@@ -46,7 +45,12 @@ managing **Field Service operations** within **Dynamics 365**.
 
     ![](./media/image5.png)
 
-7.  Click on the **Cross** icon to close the what’s new window.
+ 7. On Stay signed in? pop-up window, select **Yes**.
+
+    ![](./media/image5a.png)
+
+
+9.  Click on the **Cross** icon to close the what’s new window.
 
     ![](./media/image6.png)
 
@@ -147,7 +151,7 @@ managing **Field Service operations** within **Dynamics 365**.
 
      ![](./media/image24.png)
 
-4.  Click on the **Book Relationship** and **Requirement Relationship**
+4.  Click on the **Booking Relationship** and **Requirement Relationship**
     fields and select **Create New Relationship.**
 
     ![](./media/image25.png)
@@ -401,7 +405,7 @@ managing **Field Service operations** within **Dynamics 365**.
 
 ### Task 2 – Install Field Service Outlook Add-in with Copilot
 
-1.  under **Settings,** click on **Integrated apps**.  
+1.  Under **Settings,** click on **Integrated apps**.  
 
     ![](./media/image65.png) 
 
@@ -429,7 +433,7 @@ managing **Field Service operations** within **Dynamics 365**.
      ![A screenshot of a computer Description automatically generated](./media/image70.png)
 
 
-6.  Sign in with your **Office 365 admin tenant** credentials on the pop-up window. 
+6.  Sign in with your **M365 admin tenant** credentials on the pop-up window. 
 
      ![A screenshot of a computer Description automatically generated](./media/image71.png)
 
