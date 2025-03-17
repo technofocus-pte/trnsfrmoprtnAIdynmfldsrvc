@@ -57,7 +57,7 @@ Dynamics 365.
 
     ![](./media/image8.png)
 
-3.  Click on the **Schedule Board** then click on the horizontal
+3.  From the left navigation pane, click on the **Schedule Board** then click on the horizontal
     ellipsis from the right side and select **Scheduler settings**.
 
     ![](./media/image9.png)
@@ -95,7 +95,7 @@ Dynamics 365.
 
 ## Exercise 4 - Share a schedule board tab with specific people
 
-1.  Go to **Settings** \> **Advanced Settings** from the top bar.
+1.  Go to **Settings** --> **Advanced Settings** from the top bar.
 
     ![](./media/image14.png)
 
