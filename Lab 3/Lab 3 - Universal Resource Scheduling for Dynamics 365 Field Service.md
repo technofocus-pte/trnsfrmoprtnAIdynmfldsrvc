@@ -11,7 +11,7 @@ and use the schedule assistant. By completing this lab, you will gain
 hands-on experience in optimizing field service operations using
 Dynamics 365.
 
-## Exercise 1 – Login Into Microsoft Fabric Portal
+## Exercise 1 – Login Into Microsoft Dynamic 365 Field Service
 
 1.  Open the Edge browser and navigate to **Microsoft Dynamics 365** by
     visiting +++https://www.microsoft.com/en-in/dynamics-365/+++
