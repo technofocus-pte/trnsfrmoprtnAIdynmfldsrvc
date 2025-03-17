@@ -70,7 +70,7 @@ travel time, and work orders to enhance operational efficiency.
 
 ![](./media/image11.png)
 
-6.  Click on the **Permission** settings from top bar. Then, select the **Read**
+6.  If read privilege setting is not configured, click on the **Permission** settings from top bar. Then, select the **Read**
     **privilege** for the report.
 
 ![](./media/image12.png)
@@ -83,8 +83,8 @@ travel time, and work orders to enhance operational efficiency.
 
 ## Exercise 3 - Explore Resource and utilization report
 
-1.  To access the report, navigate to service area of field service and
-    go to **Analytics and Insights** \> **Reports**.
+1.  On the Field Service portal to access the report, navigate to service area of field service and
+    go to **Analytics and Insights** --> **Reports**.
 
 ![](./media/image15.png)
 
@@ -114,8 +114,7 @@ travel time, and work orders to enhance operational efficiency.
   Formula: Sum of miles traveled / Number of days
 
 - **Utilization rate**: The percentage of time a resource spends on work
-  and travel per [available time on the
-  calendar](https://learn.microsoft.com/en-us/dynamics365/field-service/calendar-resource).
+  and travel per available time on the calendar. 
 
   Formula: ((Total work time + Travel time) / (Configured work hours per day x Number of days)) x 100
 
@@ -140,12 +139,7 @@ travel time, and work orders to enhance operational efficiency.
   Formula: (Number of canceled bookable resource bookings / Total number
   of bookings) x 100
 
-- **Resource utilization breakdown**: Percentage of time on work,
-  travel, break, and idle time. Each bar in the chart shows the relative
-  percentage of duration types in stacked columns. It doesn't show
-  overtime values of any duration types. Available hours by day
-  are [defined in the calendar for a
-  resource](https://learn.microsoft.com/en-us/dynamics365/field-service/calendar-resource).
+- **Resource utilization breakdown**: Percentage of time on work, travel, break, and idle time. Each bar in the chart shows the relative percentage of duration types in stacked columns. It doesn't show overtime values of any duration types. Available hours by day are defined in the calendar for a resource.
 
   Formula:
 
