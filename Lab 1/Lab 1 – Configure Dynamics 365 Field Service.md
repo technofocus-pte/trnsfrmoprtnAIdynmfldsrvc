@@ -31,7 +31,7 @@ managing **Field Service operations** within **Dynamics 365**.
     ![](./media/image3.png)
 
 4.  In the *Let's get started* screen, enter the **M365 tenant** that
-    were provided to you -as part of your lab environment, enter phone nunber and accept the
+    were provided to you -as part of your lab environment, accept the
     license agreement.
 
 5.  Select **Start your free trial**. (If prompted, select **Launch
