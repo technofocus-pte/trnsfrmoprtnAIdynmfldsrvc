@@ -291,7 +291,7 @@ managing **Field Service operations** within **Dynamics 365**.
 
     ![](./media/image47.png)
 
-### Task 3 – Configure the Working Hours
+### Task 3 – Configure the Working Hours and Location
 
 1.  Go to **Resource** --> **Resources** and open Mark Brown resource. In
     Mark brown resource click on the **Work Hours.**
@@ -317,9 +317,14 @@ managing **Field Service operations** within **Dynamics 365**.
 
     ![](./media/image52.png)
 
-5.  Click on the **Save and Close** button from the top bar.
+5.  Click on the **Scheduling**, Set start and end location as **Organization Unit Address**. Click on the **Organization** **Unit** **field**, press enter and Select **Contoso** **NA**-**United** **State**.
 
-    ![](./media/image53.png)
+    ![](./media/image52a.png)
+
+
+6.  Click on the **Save and Close** button from the top bar.
+
+    ![](./media/image53a.png)
 
 ### Task 4 - Add characteristics, and categories
 
