@@ -135,7 +135,7 @@ Outlook, improving efficiency in field service operations.
 
 1.  While you're viewing an email, open the Field Service add-in.
 
-2.  From an open work order, select **Draft email based on work order**.
+2.  From Field service extension, Select **Home** tab and select **Draft email based on work order**.
 
 > ![](./media/image15.png)
 
