@@ -35,29 +35,35 @@ streamline work order management efficiently within Teams.
 
     ![](./media/image4.png)
 
-6.  In the Teams App Store, search for **Field Service** and click on
-    **Add.**
+6. On **Get to know Teams** window, select **Get Started**. Close the window which asks for scanning QR code.
+
+    ![](./media/image4a.png)
+
+    ![](./media/image4b.png)
+
+
+7.  Select Apps from left navigation pane, search for Field Service and click on **Add**.
 
     ![](./media/image5.png)
 
-7.  Select **Add**,  Confirm your
+8.  Select **Add**,  Confirm your
     information. After adding click on **cross icon** to close popup.
 
     ![](./media/image6.png)
 
     ![](./media/image7.png)
 
-8.  Click on the **ellipsis icon**, Right-click the app icon in your app
+9.  Click on the **ellipsis icon**, right-click the app icon in your app
     list, and then select **Pin**.
 
     ![](./media/image8.png)
 
-9.  In Teams, select **Apps** and select **Field Service**. Select
+10.  In Teams, select **Field Service**. Select
     the **Settings** tab. Select your **Field Service environment**.
 
     ![](./media/image9.png)
 
-10. Once the environment is validated, select the **Home** tab to go to
+11. Once the environment is validated, select the **Home** tab to go to
     the Field Service **Home** page.
 
     ![](./media/image10.png)
@@ -201,7 +207,7 @@ moving parts such as motors and fans helps reduce wear and tear.
 Regular AC maintenance not only prevents costly repairs but also
 ensures your system operates efficiently all year round.+++
 
-    ![](./media/image32.png)
+![](./media/image32.png)
 
 - Select **Save & Close**. The article is created and linked to the work
   order.
