@@ -137,7 +137,7 @@ streamline work order management efficiently within Teams.
 
     ![](./media/image21.png)
 
-3.  Select the new date and time and, if needed, a different resource.
+3.  Select the new date and time and, Select a different resource.
 
 4.  Select **Update**.
 
@@ -163,7 +163,7 @@ streamline work order management efficiently within Teams.
 
 1.  In Field Service web, go to **Service** --> **Work Orders**.
 
-2.  Select the work order and then select the **Reference** tab.
+2.  Open the work order and then select the **Reference** tab.
 
     ![](./media/image25.png)
 
@@ -228,7 +228,7 @@ ensures your system operates efficiently all year round.+++
 
 **Note:** Frontline worker can share the work order with same process.
 
-1.  Click on the **Pencil icon** on work order and click on the **copy** button
+1.  Navigate to teams work orders, Click on the **Pencil icon** on work order and click on the **copy** button
     to copy the link of the work order.
 
     ![](./media/image35.png)
