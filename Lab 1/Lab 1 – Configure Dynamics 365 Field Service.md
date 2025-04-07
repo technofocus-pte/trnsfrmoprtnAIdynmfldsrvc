@@ -336,10 +336,6 @@ managing **Field Service operations** within **Dynamics 365**.
 
     ![](./media/image54.png)
 
-3.  Click on the **+ New Bookable** Resources.
-
-    ![](./media/image55.png)
-
 4.  Click on the Skill Name field and select **+ New Characteristics**.
 
     ![](./media/image56.png)
