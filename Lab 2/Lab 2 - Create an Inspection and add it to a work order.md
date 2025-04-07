@@ -90,7 +90,7 @@ inspections, improving service quality and operational efficiency.
 
     1.  Select **Number** from the toolbox.
 
-    2.  Enter the question: +++How many test cases failed during execution?+++
+    2.  Enter the question: +++How often should an AC unit be servicesd?+++
 
      ![](./media/image12.png)
 
@@ -116,12 +116,14 @@ inspections, improving service quality and operational efficiency.
 
 ## Exercise 3 - Associate the Inspection to a Service Task Type 
 
-1.  In **Settings**, select **Service Task Types** under work order and
-    then click on the **Device Issue** **Inspection** service task type.
+1. In **Settings**, select **Service Task Types** under work order.Click on th **New** from top bar.
 
-     ![](./media/image19.png)
+    ![](./media/image18a.png)
 
-2.  In Estimated Duration field select **2 hours**.
+2. Turn on the **Has inspection**, In the nam,e field enter **Device Issue Inspection** . In Estimated Duration field select **2 hours**.
+
+    ![](./media/image18b.png)
+ 
 
 3.  Click on the **Save & Close** to save the service task type.
 
