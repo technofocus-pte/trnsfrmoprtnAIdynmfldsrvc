@@ -79,13 +79,13 @@ streamline work order management efficiently within Teams.
 
     - Priority - Normal
 
-    - Service Account – Contoso IT Solution
+    - Service Account – Contoso Retail
 
-    - Work order type – Application Testing
+    - Work order type – Ac Repair and Maintenance
 
-    - Incident type – Application Latency
+    - Incident type – Colling Issue
 
-    ![](./media/image12.png)
+    ![](./media/image12a.png)
 
 3.  Click on the **Create** button to complete the process.
 
@@ -95,17 +95,20 @@ streamline work order management efficiently within Teams.
 
 ### Task 2 - Schedule or reschedule a work order (Frontline Managers)
 
-1.  Click on the **pencil icon** on work order to open the work order you
-    need to schedule.
+1.  Click on the **pencil icon** on work order to open the work order you need to schedule.
 
-    ![](./media/image15.png)
+    ![](./media/image15a.png)
 
-2.  To schedule, select **Schedule** under System Status and scroll
-    down, click on **Save** Changes.
+2.  To schedule, select **Schedule** under suggested action.
 
-    ![](./media/image16.png)
+    ![](./media/image16a.png)
 
-    ![](./media/image17.png)
+3. Click on the Book resource button of the contact resource. The order is scheduled sccessfully.
+
+    ![](./media/image16b.png)
+
+    ![](./media/image16c.png)
+
 
 3.  To reschedule, click on the **Pencil icon** the work order and
     select **View schedule** under **Suggested actions** and
@@ -116,6 +119,11 @@ streamline work order management efficiently within Teams.
     ![](./media/image19.png)
 
     ![](./media/image20.png)
+
+4. Go to the appropriate resource and select on book resource button. The order will reschedule.
+
+    ![](./media/image16b.png)
+
 
 ### Task 3 - Move a booking (Frontline Managers)
 
