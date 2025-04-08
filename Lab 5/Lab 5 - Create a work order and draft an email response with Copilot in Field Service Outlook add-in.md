@@ -42,7 +42,7 @@ Outlook, improving efficiency in field service operations.
     | Field   | Value  |
     |---------|--------|
     | **To**  | +++Enter admin tenant ID in the field+++ |
-    | **Subject** | +++Work Order Scheduling – AC Repair and Maintenance |
+    | **Subject** | +++Work Order Scheduling – AC Repair and Maintenance+++ |
     | **Body** | +++Hi, <br> I hope you are doing well. We would like to schedule a work order with the following details: <br> • **Priority:** Normal <br> • **Service Account:** Contoso Retail <br> • **Work Order Type:** AC Repair and Maintenance <br> • **Incident Type:** Cooling Issue <br> Looking forward to your confirmation. <br><br> Best regards+++ |
 
 
