@@ -13,6 +13,8 @@ inspections, improving service quality and operational efficiency.
 
 ## Exercise 1 – Sign In Microsoft Dynamic 365 Field Service
 
+**Note:** If you already sign in field service and start free trial. Please skip the exercise 1 and start executing from exercise 2.
+
 1.  Open the Edge browser and navigate to **Microsoft Dynamics 365** by
     visiting +++https://www.microsoft.com/en-in/dynamics-365/+++
 
