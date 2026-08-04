@@ -1,3 +1,15 @@
+---
+lab:
+  title: Lab 1 – Configure Dynamic 365 Field Service
+  description: In this lab, you will configure Microsoft Dynamics 365 Field Service, enabling efficient resource scheduling, work order management, and service automation. You will begin by signing up for a trial, configuring essential settings such as Bing Maps, resource scheduling, and work order types. Additionally, you will create and manage customer accounts, bookable resources, and install the Field Service Outlook Add-in with Copilot to enhance productivity. By completing this lab, you will gain hands-on experience in setting up and managing Field Service operations within Dynamics 365.
+  duration: 45 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+    - Field Service
+---
+
 # Lab 1 – Configure Dynamic 365 Field Service
 
 ### Estimated Time: 45 mins
