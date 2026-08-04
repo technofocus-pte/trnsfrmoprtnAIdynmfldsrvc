@@ -1,3 +1,15 @@
+---
+lab:
+  title: Lab 2 - Create an Inspection and add it to a work order
+  description: In this lab, you will learn how to create and manage inspections for work orders in Contoso Retail using Microsoft Dynamics 365 Field Service. You will sign in to a trial environment, create an inspection template, associate it with a service task type, and link it to a work order. This process ensures that work orders include structured inspections, improving service quality and operational efficiency.
+  duration: 25 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+    - Field Service
+---
+
 # Lab 2 - Create an Inspection and add it to a work order
 
 **Estimate Time: 25 mins**
