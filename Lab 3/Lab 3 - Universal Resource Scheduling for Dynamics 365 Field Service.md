@@ -1,3 +1,16 @@
+---
+lab:
+  title: Lab 3 - Universal Resource Scheduling for Dynamics 365 Field Service
+  description: Introduction This lab focuses on Universal Resource Scheduling within Dynamics 365 Field Service, helping you efficiently manage resources, schedules, and bookings. You will learn how to log into the Microsoft Fabric portal, configure board settings, share schedule boards, create booking alerts, and use the schedule assistant. By completing this lab, you will gain hands-on experience in optimizing field service operations using Dynamics 365.
+  duration: 25 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+    - Field Service
+    - Microsoft Fabric
+---
+
 # Lab 3 - Universal Resource Scheduling for Dynamics 365 Field Service
 
 **Estimate Time: 25 mins**
