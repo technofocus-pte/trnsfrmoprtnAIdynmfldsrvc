@@ -1,3 +1,15 @@
+---
+lab:
+  title: Lab 6 - Explore Field Service real-time reports
+  description: In this labs, explores real-time reports in Microsoft Dynamics 365 Field Service. Participants will sign up for a trial, configure security roles for report access, and analyze key metrics like resource utilization, travel time, and work orders to enhance operational efficiency.
+  duration: 30 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+    - Field Service
+---
+
 # Lab 6 - Explore Field Service real-time reports
 
 **Estimated Time: 30 mins**

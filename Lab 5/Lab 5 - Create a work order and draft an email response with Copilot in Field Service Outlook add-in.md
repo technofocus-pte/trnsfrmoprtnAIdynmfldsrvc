@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 5 - Create a work order and draft an email response with Copilot in Field Service Outlook add-in
+  description: If you don't need to change the assigned technician, just the date or time of the service appointment, you can move the booking. If needed, you can also assign the work order to a different resource.
+  duration: 30 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Field Service
+---
+
 # Lab 5 - Create a work order and draft an email response with Copilot in Field Service Outlook add-in
 
 **Estimated time: 30 mins**
